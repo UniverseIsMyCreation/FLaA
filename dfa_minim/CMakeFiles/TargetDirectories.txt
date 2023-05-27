@@ -1,0 +1,7 @@
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/dfa_minim.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/edit_cache.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/rebuild_cache.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/list_install_components.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/install.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/install/local.dir
+/mnt/d/CMC/FLA23/dfa_minim/CMakeFiles/install/strip.dir
