@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/dfa2re.dir/main.cpp.o CMakeFiles/dfa2re.dir/task.cpp.o -o dfa2re   -L/mnt/d/CMC/FLA23/dfa2re/dfa2re  -L/mnt/d/CMC/FLA23/dfa2re  -Wl,-rpath,/mnt/d/CMC/FLA23/dfa2re/dfa2re:/mnt/d/CMC/FLA23/dfa2re: -lRegexCheckerCore_Linux 
